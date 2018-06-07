@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>home</title>
     <link>https://ni-bot.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 07 Jun 2018 14:26:23 +0200</lastBuildDate>
     
