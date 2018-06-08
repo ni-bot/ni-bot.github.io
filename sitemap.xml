@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ni-bot.github.io/imprint/</loc>
+    <lastmod>2018-06-08T11:57:54+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ni-bot.github.io/projects/website/</loc>
     <lastmod>2018-06-07T17:05:25+02:00</lastmod>
   </url>
@@ -41,7 +46,7 @@
   
   <url>
     <loc>https://ni-bot.github.io/</loc>
-    <lastmod>2018-06-07T17:05:25+02:00</lastmod>
+    <lastmod>2018-06-08T11:57:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
