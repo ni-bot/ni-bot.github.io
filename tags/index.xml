@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tobin Schumacher</title>
-    <link>https://ni-games.com/tags/</link>
+    <link>https://tobinschumacher.info/tags/</link>
     <description>Recent content in Tags on Tobin Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://ni-games.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tobinschumacher.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tobin Schumacher</title>
-    <link>https://ni-games.com/</link>
+    <link>https://tobinschumacher.info/</link>
     <description>Recent content on Tobin Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 08 Jun 2018 11:57:54 +0200</lastBuildDate>
     
-	<atom:link href="https://ni-games.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tobinschumacher.info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Imprint</title>
-      <link>https://ni-games.com/imprint/</link>
+      <link>https://tobinschumacher.info/imprint/</link>
       <pubDate>Fri, 08 Jun 2018 11:57:54 +0200</pubDate>
       
-      <guid>https://ni-games.com/imprint/</guid>
+      <guid>https://tobinschumacher.info/imprint/</guid>
       <description>Legal Disclosure Disclaimer Accountability for content
 The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents&amp;rsquo; accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity.</description>
     </item>
     
     <item>
       <title>Website</title>
-      <link>https://ni-games.com/projects/website/</link>
+      <link>https://tobinschumacher.info/projects/website/</link>
       <pubDate>Thu, 07 Jun 2018 17:05:25 +0200</pubDate>
       
-      <guid>https://ni-games.com/projects/website/</guid>
+      <guid>https://tobinschumacher.info/projects/website/</guid>
       <description> Status: Work in progress&amp;hellip;
  Landing Page - done. About - initial draft online, needs to be refined. Blog - first post online, more to follow. Projects - first Project online.  ToDo&amp;rsquo;s:
  Fill The Blog (what content?) Add current and past Projects refine About Page see if an imprint is needed  </description>
@@ -34,20 +34,20 @@ The contents of our pages have been created with the utmost care. However, we ca
     
     <item>
       <title>This Website</title>
-      <link>https://ni-games.com/posts/this_website/</link>
+      <link>https://tobinschumacher.info/posts/this_website/</link>
       <pubDate>Thu, 07 Jun 2018 16:06:34 +0200</pubDate>
       
-      <guid>https://ni-games.com/posts/this_website/</guid>
+      <guid>https://tobinschumacher.info/posts/this_website/</guid>
       <description>is what I needed. At least I think so. I thought about having a personal landing site with an included blog and listings of my current and finished projects for quite some time.
 When I found Hugo and learned about GitHub Pages I couldn&amp;rsquo;t resist and published a first draft of what shall become my home on the web. The Landing page design was done in mere seconds with the Hugo theme coder and the rest of the page will follow within a few days.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ni-games.com/about/</link>
+      <link>https://tobinschumacher.info/about/</link>
       <pubDate>Thu, 07 Jun 2018 14:26:23 +0200</pubDate>
       
-      <guid>https://ni-games.com/about/</guid>
+      <guid>https://tobinschumacher.info/about/</guid>
       <description>I am a medical IT specialist working as a technical Coordinator for a federal funded project to further medical IT in Germany.</description>
     </item>
     
