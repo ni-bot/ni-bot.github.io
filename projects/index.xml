@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tobin Schumacher</title>
-    <link>https://ni-bot.github.io/projects/</link>
+    <link>https://ni-games.com/projects/</link>
     <description>Recent content in Projects on Tobin Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 07 Jun 2018 17:05:25 +0200</lastBuildDate>
     
-	<atom:link href="https://ni-bot.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ni-games.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Website</title>
-      <link>https://ni-bot.github.io/projects/website/</link>
+      <link>https://ni-games.com/projects/website/</link>
       <pubDate>Thu, 07 Jun 2018 17:05:25 +0200</pubDate>
       
-      <guid>https://ni-bot.github.io/projects/website/</guid>
+      <guid>https://ni-games.com/projects/website/</guid>
       <description> Status: Work in progress&amp;hellip;
  Landing Page - done. About - initial draft online, needs to be refined. Blog - first post online, more to follow. Projects - first Project online.  ToDo&amp;rsquo;s:
  Fill The Blog (what content?) Add current and past Projects refine About Page see if an imprint is needed  </description>
